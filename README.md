@@ -8,4 +8,4 @@
 2. CRUD functionaity
 and so much more
 
-This project is part of a youtube series, find the video series at: [My channel](https://www.youtube.com/c/CodeWthPrince)
+This project is part of a youtube series, find the video series at: [My channel](https://www.youtube.com/c/CodeWithPrince)
